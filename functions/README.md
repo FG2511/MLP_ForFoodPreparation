@@ -1,7 +1,8 @@
-1. Import the dataset (featureDataset.arff) on Colaboratory;
-2. Open and Run in Colaboratory the following files:
+Instructions:
+
+1. Open and Run in Colaboratory the following files:
     - MultilayerPerceptron.ipynb
     - PostProcessing_SlidingWindows.ipynb
     - CookingInstanceModality.ipynb
     - Utils.ipynb;
-3. Now you can run model1_cross_validation.ipynb.
+2. Now you can choose to run model1.ipynb or model1_cross_validation.ipynb.
