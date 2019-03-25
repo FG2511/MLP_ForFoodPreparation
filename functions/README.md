@@ -1,6 +1,6 @@
-Instructions:
+Instructions for run main files correctily:
 
-1. Open and Run in Colaboratory the following files:
+1. Firstly, open and run in Colaboratory the following files stored in "functions" folder:
     - MultilayerPerceptron.ipynb
     - PostProcessing_SlidingWindows.ipynb
     - CookingInstanceModality.ipynb
