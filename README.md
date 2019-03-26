@@ -11,6 +11,7 @@ Problem description:
 
 Given the dataset described above, train a MLP for a binary-class classification probelm. The MLP has to classify if a minute belongs to the class 'Cooking' (1) or to the class 'Other' (0).
 
+
 Instruction to open and run files in Colaboratory:
 
 - On top of every file there's a link button that will open the file directly in Colaboratory. 
