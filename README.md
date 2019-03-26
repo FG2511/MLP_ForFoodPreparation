@@ -13,6 +13,6 @@ Instructions for run main files correctily:
     - PostProcessing_SlidingWindows.ipynb : this file contains the silding windows function for post-processing purpose.
     - CookingInstanceModality.ipynb : this file contains a function that computes the intersections between real instances of cooking and
                                       predicted instances of cooking. It also provides the computing of some metrics such as recall,                                             precision and f1-score.
-    - Utils.ipynb; : this file contains a function useful to compute confusion matrices and metrics such as accuracy, recall, precision 
+    - Utils.ipynb : this file contains a function useful to compute confusion matrices and metrics such as accuracy, recall, precision 
                      and f1-score.
-2. Now you can choose to run model1.ipynb or model1_cross_validation.ipynb.
+2. Now you can choose to run model1.ipynb (to perform a one-shot validation) or model1_cross_validation.ipynb (to perforn a cross-validation).
