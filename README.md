@@ -9,8 +9,9 @@ Given the dataset described above, train a MLP for a binary-class classification
 Instructions for run main files correctily:
 
 1. Firstly, open and run in Colaboratory the following files stored in "functions" folder:
-    - MultilayerPerceptron.ipynb
-    - PostProcessing_SlidingWindows.ipynb
-    - CookingInstanceModality.ipynb
-    - Utils.ipynb;
+    - MultilayerPerceptron.ipynb : this file contains a function that generates the multilayer perceptron.
+    - PostProcessing_SlidingWindows.ipynb : this file contains the silding windows function for post-processing purpose.
+    - CookingInstanceModality.ipynb : this file contains a function that 
+    - Utils.ipynb; : this file contains a function useful to compute confusion matrices and metrics such as accuracy, recall, precision 
+                     and f1-score.
 2. Now you can choose to run model1.ipynb or model1_cross_validation.ipynb.
