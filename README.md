@@ -1,10 +1,16 @@
-Dataset:
+Dataset description:
 
-The dataset contains minute-by-minute data about temperature, humidity, air pressure and different kind of gases, collected by an air quality sensor. The raw dataset has been manipulated to add an attribute 'Activity' that can assume the values 'Meal' (class 1) or 'Other' (class 0).
+The dataset is composed of 350,551 minutes of data taken during 9 months totally from volunteers living in 8 different homes, using an advanced air quality sensor. 
 
-Problem:
+Each data record contains:  date,  time,  temperature (in ◦C),  relative humidity (in percentage %), PM2.5 (Fine Particulate Matter in μg/m3), TVOC (Total Volatile Organic Compound in ppb), CO2 (Carbon Dioxide in ppm), CO (Carbon Monoxide in ppm), air pressure (in hPa), O3 (Ozone in ppb), NO2 (Nitrogen Dioxide in ppb). 
 
-Given the dataset described above, train a MLP for a binary-class classification probelm. The MLP has to classify if a minute belongs to the class 'Meal' (1) or to the class 'Other' (0).
+The raw dataset has been manipulated to add an attribute 'Activity' that can assume values 'Cooking' (class 1) or 'Other' (class 0).
+
+
+Problem description:
+
+Given the dataset described above, train a MLP for a binary-class classification probelm. The MLP has to classify if a minute belongs to the class 'Cooking' (1) or to the class 'Other' (0).
+
 
 Instructions for run main files correctily:
 
