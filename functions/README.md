@@ -16,3 +16,11 @@ Instructions for run main files correctily:
                      and f1-score.
                                        
 2. Now you can choose to run model1.ipynb (to perform a one-shot validation) or model1_cross_validation.ipynb (to perforn a cross-validation).
+
+The dataset can be freely used for non-commercial research purposes. All
+use of the data must cite the respective paper:
+
+Recognition of Cooking Activities through Air Quality Sensor Data for
+Supporting Food Journaling
+Federica Gerina; Silvia Maria Massa; Francesca Moi; Diego Reforgiato
+Recupero; Daniele Riboni
